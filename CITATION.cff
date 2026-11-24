@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Benchmarking Pressure-Based Routing Protocols in Underwater Wireless Sensor Networks: code and data"
+authors:
+  - family-names: Khasawneh
+    given-names: Ahmad M.
+    affiliation: "Department of Information Security, Faculty of Information Technology, Philadelphia University, Amman, Jordan"
+    email: akhasawneh@philadelphia.edu.jo
+version: 1.0.0
+date-released: 2026-11-24
+license: GPL-2.0-only
+keywords:
+  - underwater wireless sensor networks
+  - pressure-based routing
+  - benchmarking
+  - Aqua-Sim NG
+  - ns-3

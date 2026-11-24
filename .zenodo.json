@@ -1,0 +1,10 @@
+{
+  "title": "Benchmarking Pressure-Based Routing Protocols in Underwater Wireless Sensor Networks: code and data",
+  "upload_type": "software",
+  "description": "Aqua-Sim NG (ns-3.38) implementation of ten pressure-based routing protocols (DBR, RE-PBR, SPRE-PBR, APCDBRP, EEDBR, WDFAD-DBR, HydroCast, DVOR, QLFR, HFS-PBR), run scripts, and the raw results of 8,000+ simulation runs reported in the article \"Benchmarking Pressure-Based Routing Protocols in Underwater Wireless Sensor Networks Under Unified Settings\".",
+  "creators": [
+    {"name": "Khasawneh, Ahmad M.", "affiliation": "Philadelphia University, Amman, Jordan"}
+  ],
+  "license": "GPL-2.0-only",
+  "keywords": ["underwater wireless sensor networks", "pressure-based routing", "benchmarking", "Aqua-Sim NG", "ns-3"]
+}
