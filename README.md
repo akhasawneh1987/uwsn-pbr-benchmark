@@ -1,6 +1,6 @@
 # Benchmarking Pressure-Based Routing Protocols in Underwater Wireless Sensor Networks
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24496749.svg)](https://doi.org/10.5281/zenodo.24496749)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24496748.svg)](https://doi.org/10.5281/zenodo.24496748)
 
 Source code, scripts and raw results of the article
 
@@ -116,8 +116,10 @@ The routing module is built on Aqua-Sim NG (R. Martin, S. Rajasekaran and Z. Pen
 
 If you use this code or data, please cite the article (the citation will be updated after publication) and the archived release:
 
-> A. M. Khasawneh, "Benchmarking Pressure-Based Routing Protocols in Underwater Wireless Sensor Networks: code and data," v1.0.0, Zenodo, 2026, doi: 10.5281/zenodo.24496749.
+> A. M. Khasawneh, "Benchmarking Pressure-Based Routing Protocols in Underwater Wireless Sensor Networks: code and data," v1.0.0, Zenodo, 2026, doi: 10.5281/zenodo.24496748 (all versions).
 
 ## Versions
 
-- v1.0.0: release that accompanies the submitted article.
+The DOI 10.5281/zenodo.24496748 always resolves to the latest version. Each version also has its own DOI:
+
+- v1.0.0 (10.5281/zenodo.24496749): release that accompanies the submitted article.

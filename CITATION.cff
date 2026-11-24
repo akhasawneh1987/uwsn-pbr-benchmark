@@ -7,7 +7,7 @@ authors:
     affiliation: "Department of Information Security, Faculty of Information Technology, Philadelphia University, Amman, Jordan"
     email: akhasawneh@philadelphia.edu.jo
 version: 1.0.0
-doi: 10.5281/zenodo.24496749
+doi: 10.5281/zenodo.24496748
 repository-code: https://github.com/akhasawneh1987/uwsn-pbr-benchmark
 date-released: 2026-11-24
 license: GPL-2.0-only
